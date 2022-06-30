@@ -1,4 +1,7 @@
 # 100-dias-de-python
 
-Repositorio publico del reto #100diasdepython.
-Retos y soluciones
+Reto elaborado por la comunidad Python La Paz
+
+## ¿Como usar este repositorio?
+
+1. Revisa primero la carpeta de retos y resuelve 1 diariamente y compara tu respuesta con la solucion en la carpeta de soluciones.
