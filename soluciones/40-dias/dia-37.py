@@ -6,8 +6,8 @@ anterior para eliminar todos los elemento del
 diccionario sin usar ciclos, imprime el resultado
 """
 palabras = {
-    "python": "lenguaje de programacion multiparadigma",
-    "html": "lenguaje estandar de marcado de etiquetas",
+    "python": "lenguaje de programación multiparadigma",
+    "html": "lenguaje estándar de marcado de etiquetas",
     "css": "hojas de estilo en cascada",
     "flask": "framework de python",
     "api": "interfaz de programación de aplicaciones",

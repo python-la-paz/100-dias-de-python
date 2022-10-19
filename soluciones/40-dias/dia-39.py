@@ -5,6 +5,6 @@ Utiliza el conjunto del reto anterior y verifica
         si tienes un gato en el conjunto
             Imprime el resultado
 """
-animales = {"perro", "gato", "pajaro", "leon", "tigre"}
+animales = {"perro", "gato", "pájaro", "león", "tigre"}
 print("gato" in animales)
 # Resultado: True

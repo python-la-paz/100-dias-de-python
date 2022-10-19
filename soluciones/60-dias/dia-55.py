@@ -1,20 +1,20 @@
 """
     Bienvenido al día 55 de #100diasdepython    
             El reto de hoy es:
-    Crea una funcion recursiva para hacer una 
+    Crea una función recursiva para hacer una 
             cuenta regresiva a 0
-La funcion tiene como parametro de entrada un numero
-    Ejecuta la funcion para el numero 5
-Imprime el valor de la cuenta en cada iteracion
+La función tiene como parámetro de entrada un numero
+    Ejecuta la función para el numero 5
+Imprime el valor de la cuenta en cada iteración
 """
 
 
 def atras(num: int):
     """
-    Funcion para hacer una cuenta regresiva
+    Función para hacer una cuenta regresiva
 
     Args:
-        num (int): inicio de la cuenta artras
+        num (int): inicio de la cuenta atrás
     """
     print(num)
     num = num - 1

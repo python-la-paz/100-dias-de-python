@@ -2,7 +2,7 @@
 Bienvenido al día 98 de #100diasdepython        
             El reto de hoy es:
 Utiliza timeit para obtener el tiempo de 
-    ejecucion de la siguiente funcion
+    ejecución de la siguiente función
 Imprime el resultado en una sola linea
 """
 import timeit
@@ -19,4 +19,4 @@ lazy()
 end = timeit.default_timer()
 print(end - start)
 
-# Resutado aprox: 2.634737699998368
+# Resultado aprox: 2.634737699998368

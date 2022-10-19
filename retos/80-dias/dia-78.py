@@ -4,5 +4,5 @@ Bienvenido al día 78 de #100diasdepython
 Utiliza itertools para unir las siguientes 
     tuplas (78, 100) ("Dias", "Python")
     Obtiene el tipo de cada dato e 
-        imprimelo en una lista
+        imprime el resultado en una lista
 """

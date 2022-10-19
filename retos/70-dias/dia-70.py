@@ -4,5 +4,5 @@
     Utiliza Regex para extraer todas las palabras que 
     contengan al menos una 'a' en la siguiente cadena 
         'Llevas programando 70 dias seguidos'
-    Imprime una lista con las palabras extraidas
+    Imprime una lista con las palabras extraídas
 """

@@ -5,8 +5,8 @@
     para encontrar la union de ambos conjuntos
     sin usar ciclos e imprime el resultado
 """
-animales = {"perro", "pajaro", "leon", "tigre"}
+animales = {"perro", "pájaro", "león", "tigre"}
 mascotas = {"perro", "gato"}
 union = animales.union(mascotas)
 print(union)
-# Resultado: {'leon', 'tigre', 'perro', 'gato', 'pajaro'}
+# Resultado: {'león', 'tigre', 'perro', 'gato', 'pájaro'}

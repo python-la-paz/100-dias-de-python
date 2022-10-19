@@ -5,7 +5,7 @@ Utiliza el conjunto del reto anterior y elmina
 al gato del conjunto, si es que existiera, sin 
 usar sentecias condicionales e imprime el resultado
 """
-animales = {"perro", "gato", "pajaro", "leon", "tigre"}
+animales = {"perro", "gato", "pájaro", "león", "tigre"}
 animales.discard("gato")
 print(animales)
-# Resultado: {'pajaro', 'tigre', 'perro', 'leon'}
+# Resultado: {'pájaro', 'tigre', 'perro', 'león'}
