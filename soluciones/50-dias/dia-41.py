@@ -3,10 +3,10 @@
             El reto de hoy es:
     Utiliza el conjunto del reto anterior, 
     define un nuevo conjunto de mascotas, 
-encuentra la interseccion de ambos conjuntos
+encuentra la intersección de ambos conjuntos
     sin usar ciclos e imprime el resultado
 """
-animales = {"perro", "pajaro", "leon", "tigre"}
+animales = {"perro", "pájaro", "león", "tigre"}
 mascotas = {"perro", "gato"}
 interseccion = animales.intersection(mascotas)
 print(interseccion)

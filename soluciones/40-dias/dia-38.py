@@ -4,6 +4,6 @@ Bienvenido al día 38 de #100diasdepython
     Declara un conjunto de 5 animales 
         e imprime el resultado
 """
-animales = {"perro", "gato", "pajaro", "leon", "tigre"}
+animales = {"perro", "gato", "pájaro", "león", "tigre"}
 print(animales)
-# Resultado: {'perro', 'gato', 'pajaro', 'leon', 'tigre'}
+# Resultado: {'perro', 'gato', 'pájaro', 'león', 'tigre'}

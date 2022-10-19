@@ -1,10 +1,10 @@
 """
     Bienvenido al día 51 de #100diasdepython
             El reto de hoy es:
-Crea una funcion que calcule el volumen de un cilindro
-    Los parametros de entrada son base y altura
+Crea una función que calcule el volumen de un cilindro
+    Los parámetros de entrada son base y altura
     El valor de salida el el volumen del cilindro
-Ejecuta la funcion para el caso base= 5, altura= 7
+Ejecuta la función para el caso base= 5, altura= 7
             Imprime el resultado
 """
 from math import pi
@@ -12,9 +12,9 @@ from math import pi
 
 def volumen_cilindro(base: float, altura: float):
     """
-    Funcion que calcula el volumen de un cilindro
+    Función que calcula el volumen de un cilindro
     Args:
-        base (float): diametro del cilindro
+        base (float): diámetro del cilindro
         altura (float): altura del cilindro
 
     Returns:
