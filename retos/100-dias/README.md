@@ -1,5 +1,6 @@
-##EJERCICIOS 81-90
-Estos ejercicios abordan los siguientes temas:
+##RETOS 81-90
+Estos retos abordan los siguientes temas:
+
 1. Manejo de excepciones
 2. Uso de la palabra clave yield.
 3. Argumentos arbitrarios.

@@ -1,5 +1,6 @@
-##EJERCICIOS DIA 1 - 10
-Estos ejercicios abordan los siguientes temas:
+##RETOS DIA 1 - 10
+Estos retos abordan los siguientes temas:
+
 1. Definición de variables.
 2. Manejo de strings.
 3. Uso de la función type().
