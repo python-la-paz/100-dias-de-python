@@ -1,5 +1,5 @@
 """
-    Bienvenido al día 64 de #100diasdepython    
+    Bienvenido al día 64 de #100diasdepython
             El reto de hoy es:
 Utiliza Regex para quitar los ceros innecesarios
         de las direcciones IP de la lista
