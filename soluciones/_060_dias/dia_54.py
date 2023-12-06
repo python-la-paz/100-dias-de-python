@@ -18,7 +18,7 @@ def vocales(cadenas: list):
         cadenas (list): lista de cadenas
 
     Returns:
-        dict: diccionario con la cantidad devocales de cada cadena
+        dict: diccionario con la cantidad de vocales de cada cadena
     """
     salida = {}
     cadenas = [c.lower() for c in cadenas]
