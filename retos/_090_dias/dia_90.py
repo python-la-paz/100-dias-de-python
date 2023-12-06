@@ -1,5 +1,5 @@
 """
-    Bienvenido al día 90 de #100diasdepython        
+    Bienvenido al día 90 de #100diasdepython
                 El reto de hoy es:
     Utiliza datetime para imprimir la fecha y hora
 en formato de 12 horas ejemplo "2022/07/18 11:30 PM"
