@@ -3,5 +3,5 @@
             El reto de hoy es:
     Declara dos lista, una vacía y otra con
 elementos convierte ambas listas en booleanos
-    Imprime el resultado en una sola linea
+    Imprime el resultado en una sola línea
 """

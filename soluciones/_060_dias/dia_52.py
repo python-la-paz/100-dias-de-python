@@ -1,25 +1,25 @@
 """
         Bienvenido al día 52 de #100diasdepython
                 El reto de hoy es:
-Crea una función que convierta un numero entero en binario
+Crea una función que convierta un número entero en binario
                 sin usar la función bin()
-        El parámetro de entrada es un numero entero
+        El parámetro de entrada es un número entero
         El valor de salida es una cadena del valor
-                del numero en binario
-        Ejecuta la función para el numero 52
+                del número en binario
+        Ejecuta la función para el número 52
                 Imprime el resultado
 """
 
 
 def binario(num: int):
     """
-    Convierte un numero entero en binario
+    Convierte un número entero en binario
 
     Args:
-        num (int): numero entero a convertir
+        num (int): número entero a convertir
 
     Returns:
-        str: valor del numero en binario
+        str: valor del número en binario
     """
     if num <= 0:
         return "0"

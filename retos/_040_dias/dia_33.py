@@ -4,5 +4,5 @@
     Declara una cadena que sea un palíndromo
         y verifica que lo sea sin usar
             funciones adicionales
-    Imprime el resultado en una sola linea
+    Imprime el resultado en una sola línea
 """

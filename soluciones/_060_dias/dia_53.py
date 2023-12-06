@@ -10,7 +10,7 @@ números y devuelva una lista de los números al cuadrado
 
 def cuadrados(números: list):
     """
-    Función que eleva al cuadrado cada numero de la lista
+    Función que eleva al cuadrado cada número de la lista
     Args:
         números (list): lista de números
     Returns:
