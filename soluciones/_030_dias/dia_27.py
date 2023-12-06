@@ -8,5 +8,5 @@ para agregarle un nuevo elemento al final
 compras = ["Leche", "Huevos", "Pan", "Carne", "Arroz"]
 compras.append("Harina")
 print(compras)
-# Resultado: 
+# Resultado:
 # ['Leche', 'Huevos', 'Pan', 'Carne', 'Arroz', 'Harina']
