@@ -9,6 +9,6 @@ Imprime una lista con los teléfonos sin prefijos telefónicos
 import re
 
 phones = ["+54 11 1234 5678", "+591 68754321", "+56 9 8765 4321"]
-limpio = [re.sub("\+[0-9]* ", "", ip) for ip in phones]
+limpio = [re.sub(r"\+[0-9]* ", "", ip) for ip in phones]
 print(limpio)
-# R: ['11 1234 5678', '68754321', '9 8765 4321']
+# Resultado: ['11 1234 5678', '68754321', '9 8765 4321']

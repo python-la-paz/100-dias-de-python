@@ -14,7 +14,7 @@ correos = [
     "comidita@.com",
     "programando@outlook.com",
 ]
-patron = "^[a-z0-9]+[\._]?[a-z0-9]+[@]\w+[.]\w{2,3}$"
+patron = r"^[a-z0-9]+[\._]?[a-z0-9]+[@]\w+[.]\w{2,3}$"
 validos = [c for c in correos if re.search(patron, c)]
 print(validos)
-# R: ["pythonlapaz@gmail.com", "programando@outlook.com"]
+# Resultado: ['pythonlapaz@gmail.com', 'programando@outlook.com']

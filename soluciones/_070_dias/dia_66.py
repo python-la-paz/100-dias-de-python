@@ -17,7 +17,7 @@ cadenas = [
     "#100diasdecodigo",
     "Felicidades!",
 ]
-validos = [re.sub("[^A-Za-z0-9]+", "", c) for c in cadenas]
+validos = [re.sub(r"[^A-Za-z0-9]+", "", c) for c in cadenas]
 print(validos)
 # Resultado:
 # ['Python310', 'Python3', 'ProgramandoAndo', 'jun2022', '100diasdecodigo', 'Felicidades']

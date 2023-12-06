@@ -9,7 +9,7 @@ Imprime una lista con las subcadenas extraídas
 import re
 
 cadena = "abholaaaaabaaabbpythonistaaaaaabbbbb"
-patron = "a+b?"
+patron = r"a+b?"
 subcadenas = re.findall(patron, cadena)
 print(subcadenas)
 # Resultado:

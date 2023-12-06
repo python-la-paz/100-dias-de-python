@@ -9,7 +9,7 @@
 import re
 
 cadena = "Llevas programando 70 dias seguidos"
-patron = "\w*a.\w*"
+patron = r"\w*a.\w*"
 subcadenas = re.findall(patron, cadena)
 print(subcadenas)
 # Resultado:

@@ -17,7 +17,7 @@ correos = [
     "#100diasdecodigo",
     "Felicidades!",
 ]
-patron = "^[a-zA-Z0-9_]+$"
+patron = r"^[a-zA-Z0-9_]+$"
 validos = [c for c in correos if re.search(patron, c)]
 print(validos)
-# R: ['Python3', 'ProgramandoAndo', 'jun2022']
+# Resultado: ['Python3', 'ProgramandoAndo', 'jun2022']
