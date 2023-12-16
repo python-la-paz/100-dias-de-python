@@ -1,4 +1,4 @@
-##RETOS DIA 31 - 40
+## RETOS DIA 31 - 40
 Estos retos abordan los siguientes temas:
 
 1. Casteo de variables.
