@@ -1,4 +1,4 @@
-##RETOS DIA 11 - 20
+## RETOS DIA 11 - 20
 Estos retos abordan los siguientes temas:
 
 1. Definición de variables.
