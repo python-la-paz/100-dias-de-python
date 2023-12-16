@@ -1,4 +1,4 @@
-##RETOS DIA 1 - 10
+## RETOS DIA 1 - 10
 Estos retos abordan los siguientes temas:
 
 1. Definición de variables.
